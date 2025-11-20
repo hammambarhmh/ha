@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\bin\Debug\ha.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\bin\Debug\ha.exe
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\bin\Debug\ha.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\bin\Debug\ha.xml
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\obj\Debug\ha.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\obj\Debug\ha.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\obj\Debug\ha.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\obj\Debug\ha.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\obj\Debug\ha.exe
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\obj\Debug\ha.xml
+c:\users\pc\documents\visual studio 2015\Projects\ha\ha\obj\Debug\ha.pdb
